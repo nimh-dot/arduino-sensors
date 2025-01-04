@@ -63,7 +63,7 @@ cd sensor-data-visualization
 - **Database:** MariaDB  
 
 ## Структура репозитория
-project-name/
+arduino-sensors/
 ├── backend/              # Серверная часть
 │   ├── config/           # Настройки и конфигурации (например, db.js)
 │   ├── controllers/      # Логика обработки запросов
